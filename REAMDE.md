@@ -1,0 +1,1 @@
+The goal of this project was to dive in deeper in OOP by creating a mastermind game on the command line, along with a basic AI. 
